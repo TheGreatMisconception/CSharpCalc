@@ -1,0 +1,10 @@
+H:\CalcCSharp\CalcCSharo\bin\Debug\CalcCSharo.exe.config
+H:\CalcCSharp\CalcCSharo\bin\Debug\CalcCSharo.exe
+H:\CalcCSharp\CalcCSharo\bin\Debug\CalcCSharo.pdb
+H:\CalcCSharp\CalcCSharo\obj\Debug\CalcCSharo.csprojAssemblyReference.cache
+H:\CalcCSharp\CalcCSharo\obj\Debug\CalcCSharo.Properties.Resources.resources
+H:\CalcCSharp\CalcCSharo\obj\Debug\CalcCSharo.csproj.GenerateResource.cache
+H:\CalcCSharp\CalcCSharo\obj\Debug\CalcCSharo.csproj.CoreCompileInputs.cache
+H:\CalcCSharp\CalcCSharo\obj\Debug\CalcCSharo.exe
+H:\CalcCSharp\CalcCSharo\obj\Debug\CalcCSharo.pdb
+H:\CalcCSharp\CalcCSharo\obj\Debug\CalcCSharo.Calc.resources
